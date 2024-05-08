@@ -1,4 +1,11 @@
-### Hi there 👋
+### Salve amica mea - Hello my friends! 👋🏻
+
+👩‍💻 I am currently a senior at University of Pennsylvania majoring in Computer & Information Sciences and Cognitive Science, with a minor in Mathematics. I love turning ideas into tangible projects that benefits others and getting to know new people.
+
+🔭 I am a TA for Introduction to Computer Systems and Market and Social Systems on the Internet and a pianist/violinist of Penn Chamber.
+💬 I’m currently working on database systems and machine learning projects
+✨ I’m looking to collaborate on open-source projects that is user centered
+🦔 Fun fact: mom of a blue bicolor ragdoll named Buki and a hedgehog named Chichi. 
 
 <!--
 **yjyolandeyan/yjyolandeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
