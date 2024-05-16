@@ -11,5 +11,4 @@
 
 
 ## 🌟 Recent GitHub Activities
-![](https://github-readme-stats.vercel.app/api?username=yjyolandeyan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-contributor-stats.vercel.app/api?username=yjyolandeyan&limit=5&theme=dark&combine_all_yearly_contributions=true)
